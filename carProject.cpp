@@ -22,6 +22,7 @@ struct Customer{
 	string phone;
 
 };
+
 struct Admin{
 
 	string username;//unique
